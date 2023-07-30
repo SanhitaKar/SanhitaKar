@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web development using Python & Django**
 
-- 📫 How to reach me **sanhitakar111@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
