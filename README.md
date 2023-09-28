@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanhita Kar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanhitakar&label=Profile%20views&color=0e75b6&style=flat" alt="sanhitakar" /> </p>
 
-- 🌱 I’m currently learning **Web development using Python & Django**
+- **Web development using Python & Django**
 
 
 
